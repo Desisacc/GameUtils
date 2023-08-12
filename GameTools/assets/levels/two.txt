@@ -1,0 +1,201 @@
+[
+	960|540
+	960|540
+]
+Player{
+Positional
+	120|0
+	40|40
+	0.000000
+}
+EndFlag{
+Positional
+	780|180
+	60|60
+	0.000000
+}
+Platform{
+Positional
+	660|120
+	60|60
+	0.000000
+}
+Platform{
+Positional
+	720|120
+	60|60
+	0.000000
+}
+Platform{
+Positional
+	780|120
+	60|60
+	0.000000
+}
+Platform{
+Positional
+	840|120
+	60|60
+	0.000000
+}
+Platform{
+Positional
+	900|120
+	60|60
+	0.000000
+}
+JumpOrb{
+Positional
+	420|60
+	60|60
+	0.000000
+}
+JumpOrb{
+Positional
+	480|60
+	60|60
+	0.000000
+}
+MovablePlatform{
+Positional
+	240|120
+	60|60
+	0.000000
+Directional
+	0|150
+	0|0
+	0|0
+	0|0
+}
+MovablePlatform{
+Positional
+	0|360
+	60|60
+	0.000000
+Directional
+	0|-150
+	0|0
+	0|0
+	0|0
+}
+Spike{
+Positional
+	300|0
+	60|60
+	0.000000
+Directional
+	0|0
+	0|0
+	0|0
+	0|0
+}
+Spike{
+Positional
+	360|0
+	60|60
+	0.000000
+Directional
+	0|0
+	0|0
+	0|0
+	0|0
+}
+Spike{
+Positional
+	420|0
+	60|60
+	0.000000
+Directional
+	0|0
+	0|0
+	0|0
+	0|0
+}
+Spike{
+Positional
+	480|0
+	60|60
+	0.000000
+Directional
+	0|0
+	0|0
+	0|0
+	0|0
+}
+Spike{
+Positional
+	540|0
+	60|60
+	0.000000
+Directional
+	0|0
+	0|0
+	0|0
+	0|0
+}
+Spike{
+Positional
+	300|60
+	60|60
+	0.000000
+Directional
+	0|0
+	0|0
+	0|0
+	0|0
+}
+Spike{
+Positional
+	300|120
+	60|60
+	0.000000
+Directional
+	0|0
+	0|0
+	0|0
+	0|0
+}
+Spike{
+Positional
+	300|180
+	60|60
+	0.000000
+Directional
+	0|0
+	0|0
+	0|0
+	0|0
+}
+Spike{
+Positional
+	300|240
+	60|60
+	0.000000
+Directional
+	0|0
+	0|0
+	0|0
+	0|0
+}
+Spike{
+Positional
+	240|240
+	60|60
+	0.000000
+Directional
+	0|0
+	0|0
+	0|0
+	0|0
+}
+Spike{
+Positional
+	600|0
+	60|60
+	0.000000
+Directional
+	0|0
+	0|0
+	0|0
+	0|0
+}
